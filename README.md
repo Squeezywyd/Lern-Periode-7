@@ -27,10 +27,18 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 ## Arbeitspakete für 25.10.2024
 
 
-- [ ] Aufträge und Theorie aus dem Modul 320 nachholen.
+- [x] Aufträge und Theorie aus dem Modul 320 nachholen.
 
-- [ ] Mir einen guten Überblick verschaffen, was mich alles erwartet in den neuen Modulen (294).
+- [x] Mir einen guten Überblick verschaffen, was mich alles erwartet in den neuen Modulen (294).
 
-- [ ] Aufträge aus dem Modul 320 reflektieren und vertiefen.
+- [x] Aufträge aus dem Modul 320 reflektieren und vertiefen.
 
 - [ ] Prüfungsvorbereitung für das Modul 320 (Übungsprojekt implementieren).
+
+
+
+## Arbeitspakete für 01.11.2024
+
+
+- [ ] Prüfungsvorbereitung Modul 320. (Alles nochmals grob durchgehen und repetieren bis ich sicher bin dass ich es kann)
+
