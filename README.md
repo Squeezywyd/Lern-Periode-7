@@ -43,9 +43,18 @@ Meine Erwartungen an Herr Meyer sind, dass ich jeweils immer hilfreiches Feedbac
 - [x] Prüfungsvorbereitung Modul 320. (Alles nochmals grob durchgehen und repetieren bis ich sicher bin dass ich es kann)
 
 
+
 ## Arbeitspakete für 08.11.2024
 
-- [ ] Aufträge und Theorie aus dem Modul 294 nachholen.
+- [x] Aufträge und Theorie aus dem Modul 294 nachholen.
 - [ ] Probieren erste Javascript-Codes in meinem eigenen Projekt zu implementieren.
-- [ ] Planung was ich in meinem eigenen Projekt implementieren könnte.
+- [x] Planung was ich in meinem eigenen Projekt implementieren könnte.
+
+Heute habe ich noch die übrigen Aufträge aus dem M294 nachgeholt. Anschliessend habe ich mich damit beschäftigt und eine Planung gemacht was ich auf meiner Webseite implementieren könnte. Zur Implementation bin ich jedoch bereits noch nicht gekommen.
+
+## Arbeitspakete für 15.11.2024
+
+- [ ] Aufträge und Theorie aus dem Modul 294 nachholen.
+- [ ] Mit der ersten Implementation der JS-Codes beginnen
+- [ ] Nacharbeit vom Modul 346.
 
