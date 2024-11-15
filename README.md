@@ -54,7 +54,19 @@ Heute habe ich noch die übrigen Aufträge aus dem M294 nachgeholt. Anschliessen
 
 ## Arbeitspakete für 15.11.2024
 
-- [ ] Aufträge und Theorie aus dem Modul 294 nachholen.
+- [x] Aufträge und Theorie aus dem Modul 294 nachholen.
 - [ ] Mit der ersten Implementation der JS-Codes beginnen
+- [x] Nacharbeit vom Modul 346.
+
+Heute habe ich noch die übrigen Aufträge aus dem Modul 294 nachgeholt vom Mittwoch, d ich am Mittwoch viel Zeit verloren habe mit dem CRUD Auftrag, da es Probleme mit der Verbindung zum Server gegeben hatte. Somit bin ich nicht dazu gekommen den Auftrag LA_294_8426_Fetch zu lösen. 
+Diesen habe ich deshalb heute noch nachgeholt. 
+Ich konnte leider noch keine JS-Codes implementieren, da ich nochmals alle HTML und CSS Codes die ich bereits hatte überarbeitet habe, da sich vieles bereits wieder geändert hat. Deshalb habe ich viel Zeit damit verbracht meine Website zu überarbeiten und bin noch nicht zur Implementation von einem JavaScript code gekommen.
+Im Modul 346 habe ich noch den Auftrag 1708 nachgeholt, da ich mit diesem gestern im Unterricht nicht ganz fertig geworden bin.
+
+## Arbeitspakete für 22.11.2024
+- [ ] Für die OBA 2 im Modul 294 vorbereiten und nichmals die Grundlagen repetieren.
+- [ ] Mit der ersten Implementation der JS-Codes beginnen.
 - [ ] Nacharbeit vom Modul 346.
+
+
 
