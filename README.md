@@ -64,8 +64,18 @@ Ich konnte leider noch keine JS-Codes implementieren, da ich nochmals alle HTML 
 Im Modul 346 habe ich noch den Auftrag 1708 nachgeholt, da ich mit diesem gestern im Unterricht nicht ganz fertig geworden bin.
 
 ## Arbeitspakete für 22.11.2024
-- [ ] Für die OBA 2 im Modul 294 vorbereiten und nichmals die Grundlagen repetieren.
-- [ ] Mit der ersten Implementation der JS-Codes beginnen.
+- [x] Für die OBA 2 im Modul 294 vorbereiten und nichmals die Grundlagen repetieren.
+- [x] Mit der ersten Implementation der JS-Codes beginnen.
+- [ ] Nacharbeit vom Modul 346.
+
+
+Heute habe ich mich mit dem ÜbungsKahoot für die OBA 2 im Modul 294 vorbereitet. Ich kann javascript mittlerweile sehr gut verstehen und auch verwenden. Nach einer Repetition von allem für die OBA habe ich damit weitergemacht, meine geplanten Änderungen in meiner Website umzusetzen. Ich habe erst angefangen das ganze überhaupt mal mit JavaScript zu implementieren. Es sieht jedoch noch nicht gut aus, da es noch nicht richtig gestylt ist sondern nur mal testhalber auf der Seite ist. Ich habe jedoch angefangen meinen Preisrechner zu stylen, dass das ganze auch ansprechend aussieht. 
+Ich habe heute jedoch auch noch andere Änderungen auf meiner Webseite vorgenommen um das ganze nochmals besser aussehen zu lassen damit ich die Webseite schon bald in Gebrauch nehmen kann. Jedoch hat das ganze sehr viel Zeit in Anspruch genommen, weshalb ich nicht dazugekommen bin die übrigen Aufträge aus dem Modul 346 nachzuholen.
+
+
+## Arbeitspakete für 29.11.2024
+- [ ] Meine JavaScript codes so stylen, dass sie fertig implementiert sind und alles gut aussieht.
+- [ ] Meine JavaScript codes so anpassen, damit es genau den Erwartungen entsprechend Funktioniert.
 - [ ] Nacharbeit vom Modul 346.
 
 
