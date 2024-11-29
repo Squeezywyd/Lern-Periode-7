@@ -81,3 +81,9 @@ Ich habe heute jedoch auch noch andere Änderungen auf meiner Webseite vorgenomm
 Heute habe ich zuerst an meinen JavaScript Codes gearbeitet und diese nun vollständig funktionsfähig gemacht. Danach habe ich jedoch nicht weiter an meinem Projekt gemacht und bin noch nicht dazu gekommen die javascript codes gleich auch noch auf meiner website zu stylen damit es schön aussieht. Stattdessen habe ich gemeinesam mit Leandro Küng an der LB aus dem Modul 346 gearbeitet und wir konnten das Handlungsziel 1 und das Handlungsziel 2 aus der LB erledigen. Da dss ganze sehr viel Zeit in Anspruch genommen hat, bin ich leider nicht mehr dazu gekommen anderes zu machen.
 
 
+## Arbeitspakete für 06.12.2024
+
+- [ ] Meine Javascript Abschnitte so stylen, dass das ganze ansprechend und fertig auf der Website aussieht.
+- [ ] Arbeit an der LB für das Modul 294
+- [ ] Letzte Änderungen vornehmen an meiner Webseite um sie neu zu veröffentlichen und sie fertig zu haben.
+
