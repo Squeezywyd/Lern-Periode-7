@@ -75,8 +75,9 @@ Ich habe heute jedoch auch noch andere Änderungen auf meiner Webseite vorgenomm
 
 ## Arbeitspakete für 29.11.2024
 - [ ] Meine JavaScript codes so stylen, dass sie fertig implementiert sind und alles gut aussieht.
-- [ ] Meine JavaScript codes so anpassen, damit es genau den Erwartungen entsprechend Funktioniert.
-- [ ] Nacharbeit vom Modul 346.
+- [x] Meine JavaScript codes so anpassen, damit es genau den Erwartungen entsprechend Funktioniert.
+- [x] Nacharbeit vom Modul 346.
 
+Heute habe ich zuerst an meinen JavaScript Codes gearbeitet und diese nun vollständig funktionsfähig gemacht. Danach habe ich jedoch nicht weiter an meinem Projekt gemacht und bin noch nicht dazu gekommen die javascript codes gleich auch noch auf meiner website zu stylen damit es schön aussieht. Stattdessen habe ich gemeinesam mit Leandro Küng an der LB aus dem Modul 346 gearbeitet und wir konnten das Handlungsziel 1 und das Handlungsziel 2 aus der LB erledigen. Da dss ganze sehr viel Zeit in Anspruch genommen hat, bin ich leider nicht mehr dazu gekommen anderes zu machen.
 
 
