@@ -93,7 +93,18 @@ Reflexion in Video vorhanden.
 
 ## Arbeitspakete für 13.12.2024
 
-- [ ] Meine Webseite komplett fertig stylen
+- [x] Meine Webseite komplett fertig stylen
 - [ ] Mein Projekt abschliessen
-- [ ] Reflektion von Aufträgen aus dem Modul 450
+- [x] Reflektion von Aufträgen aus dem Modul 450
+
+
+Heute habe ich zuerst angefangen mit der Reflektion von Aufträgen und Theorie aus dem Modul 450. Ich habe zum Teil noch etwas mühe gehabt, selbstständig codes zu schreiben für das Unit-Testing und wollte deshalb noch mal alles gründlich durcharbeiten. 
+Anschliessend habe ich mich an die übrige Bearbeitung meines Projekts gesetzt. Ich konnte nun endlich alles stylen und anpassen, dass die Seite fertig aussieht. 
+Nun muss ich mich jedoch noch darum kümmern, die Seite korrekt zu veröffentlichen und zu hosten, damit ich das ganze auch in Gebrauch ziehen kann und dir Seite vermarkten kann.
+
+## Arbeitspakete für 20.12.2024
+
+- [ ] Recherche, wie ich meine Website korrekt hosten kann und eine aktive Domain bekomme.
+- [ ] Repetition der Aufträge und Theorie im Modul 450
+- [ ] Vertiefen des Neu-Gelernten aus dem Modul 295
 
