@@ -87,3 +87,13 @@ Heute habe ich zuerst an meinen JavaScript Codes gearbeitet und diese nun vollst
 - [ ] Arbeit an der LB für das Modul 294
 - [ ] Letzte Änderungen vornehmen an meiner Webseite um sie neu zu veröffentlichen und sie fertig zu haben.
 
+Reflexion in Video vorhanden.
+
+
+
+## Arbeitspakete für 13.12.2024
+
+- [ ] Meine Webseite komplett fertig stylen
+- [ ] Mein Projekt abschliessen
+- [ ] Reflektion von Aufträgen aus dem Modul 450
+
